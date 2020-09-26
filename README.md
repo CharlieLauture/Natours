@@ -1,2 +1,0 @@
-# Natours
-first sass project
